@@ -1,0 +1,22 @@
+{
+  "name": "virtuotechnicaltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohannmartinez/virtuoTechnicalTest.git"
+  },
+  "author": "yohannmartinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohannmartinez/virtuoTechnicalTest/issues"
+  },
+  "homepage": "https://github.com/yohannmartinez/virtuoTechnicalTest#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
