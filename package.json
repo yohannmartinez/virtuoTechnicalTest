@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/yohannmartinez/virtuoTechnicalTest#readme",
   "dependencies": {
+    "chai": "^4.2.0",
     "express": "^4.17.0",
-    "mongoose": "^5.5.10"
+    "mongoose": "^5.5.10",
+    "sinon": "^7.3.2"
   }
 }

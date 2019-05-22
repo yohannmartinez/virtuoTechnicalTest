@@ -5,12 +5,14 @@ let CarModel = require('./models/car');
 
 //retrieve all stations
 app.get('/stations', (req, res) => {
-    res.send('stations retireved')
+    res.send('stations')
+    return "stations retireved"
 });
 
 //retrieve all cars
 app.get('/cars', (req, res) => {
-    res.send('cars retireved')
+    res.send('cars')
+    return "cars retireved"
 });
 
 app.listen(3000, () => {
