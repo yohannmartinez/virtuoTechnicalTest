@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/yohannmartinez/virtuoTechnicalTest#readme",
   "dependencies": {
-    "express": "^4.17.0"
+    "express": "^4.17.0",
+    "mongoose": "^5.5.10"
   }
 }
